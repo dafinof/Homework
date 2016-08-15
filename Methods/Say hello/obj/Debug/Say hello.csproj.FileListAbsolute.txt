@@ -1,0 +1,6 @@
+c:\users\dad\documents\visual studio 2015\Projects\Methods\Say hello\bin\Debug\Say hello.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\Methods\Say hello\bin\Debug\Say hello.exe
+c:\users\dad\documents\visual studio 2015\Projects\Methods\Say hello\bin\Debug\Say hello.pdb
+c:\users\dad\documents\visual studio 2015\Projects\Methods\Say hello\obj\Debug\Say hello.csprojResolveAssemblyReference.cache
+c:\users\dad\documents\visual studio 2015\Projects\Methods\Say hello\obj\Debug\Say hello.exe
+c:\users\dad\documents\visual studio 2015\Projects\Methods\Say hello\obj\Debug\Say hello.pdb

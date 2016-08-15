@@ -1,0 +1,5 @@
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\fill the matix\bin\Debug\fill the matix.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\fill the matix\bin\Debug\fill the matix.exe
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\fill the matix\bin\Debug\fill the matix.pdb
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\fill the matix\obj\Debug\fill the matix.exe
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\fill the matix\obj\Debug\fill the matix.pdb

@@ -1,0 +1,6 @@
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\biggets of 5\bin\Debug\biggets of 5.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\biggets of 5\obj\Debug\biggets of 5.csprojResolveAssemblyReference.cache
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\biggets of 5\bin\Debug\biggets of 5.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\biggets of 5\bin\Debug\biggets of 5.pdb
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\biggets of 5\obj\Debug\biggets of 5.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\biggets of 5\obj\Debug\biggets of 5.pdb

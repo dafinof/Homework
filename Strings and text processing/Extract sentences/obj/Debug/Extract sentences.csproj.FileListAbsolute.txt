@@ -1,0 +1,6 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Extract sentences\bin\Debug\Extract sentences.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Extract sentences\bin\Debug\Extract sentences.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Extract sentences\bin\Debug\Extract sentences.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Extract sentences\obj\Debug\Extract sentences.csprojResolveAssemblyReference.cache
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Extract sentences\obj\Debug\Extract sentences.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Extract sentences\obj\Debug\Extract sentences.pdb

@@ -1,0 +1,6 @@
+c:\users\dad\documents\visual studio 2015\Projects\Methods\First larger than neighbours\bin\Debug\First larger than neighbours.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\Methods\First larger than neighbours\bin\Debug\First larger than neighbours.exe
+c:\users\dad\documents\visual studio 2015\Projects\Methods\First larger than neighbours\bin\Debug\First larger than neighbours.pdb
+c:\users\dad\documents\visual studio 2015\Projects\Methods\First larger than neighbours\obj\Debug\First larger than neighbours.csprojResolveAssemblyReference.cache
+c:\users\dad\documents\visual studio 2015\Projects\Methods\First larger than neighbours\obj\Debug\First larger than neighbours.exe
+c:\users\dad\documents\visual studio 2015\Projects\Methods\First larger than neighbours\obj\Debug\First larger than neighbours.pdb

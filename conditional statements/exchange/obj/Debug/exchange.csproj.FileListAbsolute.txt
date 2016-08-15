@@ -1,0 +1,6 @@
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\exchange\bin\Debug\exchange.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\exchange\bin\Debug\exchange.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\exchange\bin\Debug\exchange.pdb
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\exchange\obj\Debug\exchange.csprojResolveAssemblyReference.cache
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\exchange\obj\Debug\exchange.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\exchange\obj\Debug\exchange.pdb

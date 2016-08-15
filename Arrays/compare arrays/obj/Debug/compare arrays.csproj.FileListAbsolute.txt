@@ -1,0 +1,5 @@
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\compare arrays\bin\Debug\compare arrays.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\compare arrays\bin\Debug\compare arrays.exe
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\compare arrays\bin\Debug\compare arrays.pdb
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\compare arrays\obj\Debug\compare arrays.exe
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\compare arrays\obj\Debug\compare arrays.pdb

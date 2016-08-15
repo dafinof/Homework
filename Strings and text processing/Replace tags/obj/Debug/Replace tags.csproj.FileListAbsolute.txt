@@ -1,0 +1,5 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Replace tags\bin\Debug\Replace tags.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Replace tags\bin\Debug\Replace tags.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Replace tags\bin\Debug\Replace tags.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Replace tags\obj\Debug\Replace tags.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Replace tags\obj\Debug\Replace tags.pdb

@@ -1,0 +1,5 @@
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\play card\bin\Debug\play card.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\play card\bin\Debug\play card.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\play card\bin\Debug\play card.pdb
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\play card\obj\Debug\play card.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\play card\obj\Debug\play card.pdb

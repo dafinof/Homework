@@ -1,0 +1,5 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\interval\bin\Debug\interval.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\interval\bin\Debug\interval.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\interval\bin\Debug\interval.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\interval\obj\Debug\interval.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\interval\obj\Debug\interval.pdb

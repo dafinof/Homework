@@ -1,0 +1,6 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\sum n numbers\bin\Debug\sum n numbers.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\sum n numbers\bin\Debug\sum n numbers.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\sum n numbers\bin\Debug\sum n numbers.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\sum n numbers\obj\Debug\sum n numbers.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\sum n numbers\obj\Debug\sum n numbers.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\sum n numbers\obj\Debug\sum n numbers.csprojResolveAssemblyReference.cache

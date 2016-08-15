@@ -1,0 +1,5 @@
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\sort 3 numbers\bin\Debug\sort 3 numbers.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\sort 3 numbers\bin\Debug\sort 3 numbers.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\sort 3 numbers\bin\Debug\sort 3 numbers.pdb
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\sort 3 numbers\obj\Debug\sort 3 numbers.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\sort 3 numbers\obj\Debug\sort 3 numbers.pdb

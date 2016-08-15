@@ -1,0 +1,5 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\Sum of 5\bin\Debug\Sum of 5.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\Sum of 5\bin\Debug\Sum of 5.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\Sum of 5\bin\Debug\Sum of 5.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\Sum of 5\obj\Debug\Sum of 5.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\Sum of 5\obj\Debug\Sum of 5.pdb

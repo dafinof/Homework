@@ -1,0 +1,6 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Substring in text\bin\Debug\Substring in text.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Substring in text\bin\Debug\Substring in text.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Substring in text\bin\Debug\Substring in text.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Substring in text\obj\Debug\Substring in text.csprojResolveAssemblyReference.cache
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Substring in text\obj\Debug\Substring in text.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Substring in text\obj\Debug\Substring in text.pdb

@@ -1,0 +1,6 @@
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\test\bin\Debug\test.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\test\bin\Debug\test.exe
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\test\bin\Debug\test.pdb
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\test\obj\Debug\test.exe
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\test\obj\Debug\test.pdb

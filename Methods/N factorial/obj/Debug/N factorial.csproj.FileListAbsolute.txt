@@ -1,0 +1,6 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Methods\N factorial\bin\Debug\N factorial.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Methods\N factorial\bin\Debug\N factorial.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Methods\N factorial\bin\Debug\N factorial.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Methods\N factorial\obj\Debug\N factorial.csprojResolveAssemblyReference.cache
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Methods\N factorial\obj\Debug\N factorial.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Methods\N factorial\obj\Debug\N factorial.pdb

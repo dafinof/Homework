@@ -1,0 +1,6 @@
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\allocate array\bin\Debug\allocate array.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\allocate array\bin\Debug\allocate array.exe
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\allocate array\bin\Debug\allocate array.pdb
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\allocate array\obj\Debug\allocate array.csprojResolveAssemblyReference.cache
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\allocate array\obj\Debug\allocate array.exe
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\allocate array\obj\Debug\allocate array.pdb

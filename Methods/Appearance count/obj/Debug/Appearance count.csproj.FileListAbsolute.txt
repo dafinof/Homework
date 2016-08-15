@@ -1,0 +1,5 @@
+c:\users\dad\documents\visual studio 2015\Projects\Methods\Appearance count\bin\Debug\Appearance count.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\Methods\Appearance count\bin\Debug\Appearance count.exe
+c:\users\dad\documents\visual studio 2015\Projects\Methods\Appearance count\bin\Debug\Appearance count.pdb
+c:\users\dad\documents\visual studio 2015\Projects\Methods\Appearance count\obj\Debug\Appearance count.exe
+c:\users\dad\documents\visual studio 2015\Projects\Methods\Appearance count\obj\Debug\Appearance count.pdb

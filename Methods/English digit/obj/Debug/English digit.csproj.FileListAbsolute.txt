@@ -1,0 +1,5 @@
+c:\users\dad\documents\visual studio 2015\Projects\Methods\English digit\bin\Debug\English digit.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\Methods\English digit\bin\Debug\English digit.exe
+c:\users\dad\documents\visual studio 2015\Projects\Methods\English digit\bin\Debug\English digit.pdb
+c:\users\dad\documents\visual studio 2015\Projects\Methods\English digit\obj\Debug\English digit.exe
+c:\users\dad\documents\visual studio 2015\Projects\Methods\English digit\obj\Debug\English digit.pdb

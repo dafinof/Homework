@@ -1,0 +1,6 @@
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\digit as word\bin\Debug\digit as word.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\digit as word\bin\Debug\digit as word.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\digit as word\bin\Debug\digit as word.pdb
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\digit as word\obj\Debug\digit as word.csprojResolveAssemblyReference.cache
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\digit as word\obj\Debug\digit as word.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\digit as word\obj\Debug\digit as word.pdb

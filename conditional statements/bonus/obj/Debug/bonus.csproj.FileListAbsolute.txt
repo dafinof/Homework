@@ -1,0 +1,5 @@
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\bonus\bin\Debug\bonus.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\bonus\bin\Debug\bonus.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\bonus\bin\Debug\bonus.pdb
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\bonus\obj\Debug\bonus.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\bonus\obj\Debug\bonus.pdb

@@ -1,0 +1,3 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\multidimensional arrays\test2\bin\Debug\test2.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\multidimensional arrays\test2\obj\Debug\test2.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\multidimensional arrays\test2\obj\Debug\test2.pdb

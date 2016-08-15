@@ -1,0 +1,6 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Arrays\index of letters\bin\Debug\index of letters.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Arrays\index of letters\bin\Debug\index of letters.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Arrays\index of letters\bin\Debug\index of letters.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Arrays\index of letters\obj\Debug\index of letters.csprojResolveAssemblyReference.cache
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Arrays\index of letters\obj\Debug\index of letters.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Arrays\index of letters\obj\Debug\index of letters.pdb

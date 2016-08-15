@@ -1,0 +1,6 @@
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\int test\bin\Debug\int test.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\int test\bin\Debug\int test.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\int test\bin\Debug\int test.pdb
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\int test\obj\Debug\int test.csprojResolveAssemblyReference.cache
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\int test\obj\Debug\int test.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\int test\obj\Debug\int test.pdb

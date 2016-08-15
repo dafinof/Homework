@@ -1,0 +1,6 @@
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\maximal sum\bin\Debug\maximal sum.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\maximal sum\bin\Debug\maximal sum.exe
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\maximal sum\bin\Debug\maximal sum.pdb
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\maximal sum\obj\Debug\maximal sum.csprojResolveAssemblyReference.cache
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\maximal sum\obj\Debug\maximal sum.exe
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\maximal sum\obj\Debug\maximal sum.pdb

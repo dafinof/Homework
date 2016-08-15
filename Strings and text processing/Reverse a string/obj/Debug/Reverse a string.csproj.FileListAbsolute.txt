@@ -1,0 +1,6 @@
+c:\users\dad\documents\visual studio 2015\Projects\Strings and text processing\Reverse a string\bin\Debug\Reverse a string.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\Strings and text processing\Reverse a string\bin\Debug\Reverse a string.exe
+c:\users\dad\documents\visual studio 2015\Projects\Strings and text processing\Reverse a string\bin\Debug\Reverse a string.pdb
+c:\users\dad\documents\visual studio 2015\Projects\Strings and text processing\Reverse a string\obj\Debug\Reverse a string.csprojResolveAssemblyReference.cache
+c:\users\dad\documents\visual studio 2015\Projects\Strings and text processing\Reverse a string\obj\Debug\Reverse a string.exe
+c:\users\dad\documents\visual studio 2015\Projects\Strings and text processing\Reverse a string\obj\Debug\Reverse a string.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Parse tags\bin\Debug\Parse tags.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Parse tags\bin\Debug\Parse tags.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Parse tags\bin\Debug\Parse tags.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Parse tags\obj\Debug\Parse tags.csprojResolveAssemblyReference.cache
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Parse tags\obj\Debug\Parse tags.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Parse tags\obj\Debug\Parse tags.pdb

@@ -1,0 +1,5 @@
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Number Comparer\bin\Debug\Number Comparer.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Number Comparer\bin\Debug\Number Comparer.exe
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Number Comparer\bin\Debug\Number Comparer.pdb
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Number Comparer\obj\Debug\Number Comparer.exe
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Number Comparer\obj\Debug\Number Comparer.pdb

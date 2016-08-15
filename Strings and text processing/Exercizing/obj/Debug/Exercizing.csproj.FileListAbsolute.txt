@@ -1,0 +1,6 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Exercizing\bin\Debug\Exercizing.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Exercizing\bin\Debug\Exercizing.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Exercizing\bin\Debug\Exercizing.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Exercizing\obj\Debug\Exercizing.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Exercizing\obj\Debug\Exercizing.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Exercizing\obj\Debug\Exercizing.csprojResolveAssemblyReference.cache

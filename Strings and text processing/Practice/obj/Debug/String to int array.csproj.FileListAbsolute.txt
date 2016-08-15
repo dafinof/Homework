@@ -1,0 +1,3 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Practice\bin\Debug\Practice.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Practice\obj\Debug\Practice.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Practice\obj\Debug\Practice.pdb

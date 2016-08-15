@@ -1,0 +1,5 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Unicode characters\bin\Debug\Unicode characters.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Unicode characters\bin\Debug\Unicode characters.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Unicode characters\bin\Debug\Unicode characters.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Unicode characters\obj\Debug\Unicode characters.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Unicode characters\obj\Debug\Unicode characters.pdb

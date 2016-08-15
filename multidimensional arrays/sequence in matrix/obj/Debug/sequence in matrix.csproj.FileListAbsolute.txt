@@ -1,0 +1,6 @@
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\sequence in matrix\bin\Debug\sequence in matrix.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\sequence in matrix\bin\Debug\sequence in matrix.exe
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\sequence in matrix\bin\Debug\sequence in matrix.pdb
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\sequence in matrix\obj\Debug\sequence in matrix.csprojResolveAssemblyReference.cache
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\sequence in matrix\obj\Debug\sequence in matrix.exe
+c:\users\dad\documents\visual studio 2015\Projects\multidimensional arrays\sequence in matrix\obj\Debug\sequence in matrix.pdb

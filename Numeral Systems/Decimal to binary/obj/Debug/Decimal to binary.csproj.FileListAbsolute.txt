@@ -1,0 +1,6 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Numeral Systems\Decimal to binary\bin\Debug\Decimal to binary.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Numeral Systems\Decimal to binary\obj\Debug\Decimal to binary.csprojResolveAssemblyReference.cache
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Numeral Systems\Decimal to binary\bin\Debug\Decimal to binary.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Numeral Systems\Decimal to binary\bin\Debug\Decimal to binary.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Numeral Systems\Decimal to binary\obj\Debug\Decimal to binary.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Numeral Systems\Decimal to binary\obj\Debug\Decimal to binary.pdb

@@ -1,0 +1,6 @@
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Sum of 3\bin\Debug\Sum of 3.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Sum of 3\bin\Debug\Sum of 3.exe
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Sum of 3\bin\Debug\Sum of 3.pdb
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Sum of 3\obj\Debug\Sum of 3.csprojResolveAssemblyReference.cache
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Sum of 3\obj\Debug\Sum of 3.exe
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Sum of 3\obj\Debug\Sum of 3.pdb

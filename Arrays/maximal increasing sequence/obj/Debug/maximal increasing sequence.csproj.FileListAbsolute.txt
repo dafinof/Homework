@@ -1,0 +1,6 @@
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\maximal increasing sequence\bin\Debug\maximal increasing sequence.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\maximal increasing sequence\bin\Debug\maximal increasing sequence.exe
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\maximal increasing sequence\bin\Debug\maximal increasing sequence.pdb
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\maximal increasing sequence\obj\Debug\maximal increasing sequence.csprojResolveAssemblyReference.cache
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\maximal increasing sequence\obj\Debug\maximal increasing sequence.exe
+c:\users\dad\documents\visual studio 2015\Projects\Arrays\maximal increasing sequence\obj\Debug\maximal increasing sequence.pdb

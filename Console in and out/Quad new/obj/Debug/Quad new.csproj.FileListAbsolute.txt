@@ -1,0 +1,6 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\Quad new\bin\Debug\Quad new.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\Quad new\bin\Debug\Quad new.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\Quad new\bin\Debug\Quad new.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\Quad new\obj\Debug\Quad new.csprojResolveAssemblyReference.cache
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\Quad new\obj\Debug\Quad new.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\Quad new\obj\Debug\Quad new.pdb

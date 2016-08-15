@@ -1,0 +1,5 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\numbers 1 to n\bin\Debug\numbers 1 to n.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\numbers 1 to n\bin\Debug\numbers 1 to n.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\numbers 1 to n\bin\Debug\numbers 1 to n.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\numbers 1 to n\obj\Debug\numbers 1 to n.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Console in and out\numbers 1 to n\obj\Debug\numbers 1 to n.pdb

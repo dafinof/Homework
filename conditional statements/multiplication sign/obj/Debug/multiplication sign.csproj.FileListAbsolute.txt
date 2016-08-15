@@ -1,0 +1,5 @@
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\multiplication sign\bin\Debug\multiplication sign.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\multiplication sign\bin\Debug\multiplication sign.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\multiplication sign\bin\Debug\multiplication sign.pdb
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\multiplication sign\obj\Debug\multiplication sign.exe
+c:\users\dad\documents\visual studio 2015\Projects\conditional statements\multiplication sign\obj\Debug\multiplication sign.pdb

@@ -1,0 +1,6 @@
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Circle\bin\Debug\Circle.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Circle\bin\Debug\Circle.exe
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Circle\bin\Debug\Circle.pdb
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Circle\obj\Debug\Circle.csprojResolveAssemblyReference.cache
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Circle\obj\Debug\Circle.exe
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Circle\obj\Debug\Circle.pdb

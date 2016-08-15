@@ -1,0 +1,6 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\String lenght\bin\Debug\String lenght.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\String lenght\bin\Debug\String lenght.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\String lenght\bin\Debug\String lenght.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\String lenght\obj\Debug\String lenght.csprojResolveAssemblyReference.cache
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\String lenght\obj\Debug\String lenght.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\String lenght\obj\Debug\String lenght.pdb

@@ -1,0 +1,5 @@
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Company info\bin\Debug\Company info.exe.config
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Company info\bin\Debug\Company info.exe
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Company info\bin\Debug\Company info.pdb
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Company info\obj\Debug\Company info.exe
+c:\users\dad\documents\visual studio 2015\Projects\Console in and out\Company info\obj\Debug\Company info.pdb

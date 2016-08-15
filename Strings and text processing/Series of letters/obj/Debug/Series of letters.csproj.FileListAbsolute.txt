@@ -1,0 +1,6 @@
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Series of letters\bin\Debug\Series of letters.exe.config
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Series of letters\bin\Debug\Series of letters.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Series of letters\bin\Debug\Series of letters.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Series of letters\obj\Debug\Series of letters.exe
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Series of letters\obj\Debug\Series of letters.pdb
+C:\Users\Dad\Documents\Visual Studio 2015\Projects\Strings and text processing\Parse tags\bin\Debug\Series of letters.exe.config
